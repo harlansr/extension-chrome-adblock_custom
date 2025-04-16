@@ -2299,7 +2299,7 @@
    },
    "name": {
       "description": "Extension name to be shown for release / published builds.  The extension name 'AdBlock' should NOT be translated, but the text after the dash should be translated",
-      "message": "AdBlock — block ads across the web"
+      "message": "AdBlock (custom) — block ads across the web"
    },
    "name_adblock_on_youtube": {
       "description": "Name of version of the AdBlock extension that only blocks ads on YouTube. Other strings that refer to the 'AdBlock on YouTube' extension should use this name.",

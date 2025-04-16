@@ -30,7 +30,7 @@ export interface EventData {
 }
 export declare enum LicenseState {
     active = "premium",
-    inactive = "free"
+    inactive = "premium"
 }
 interface DeviceAttributes extends BaseAttributes {
     blocked_total: number;
